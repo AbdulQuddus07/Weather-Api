@@ -1,0 +1,24 @@
+body{
+    margin: 50px  auto  ;
+    max-width: 30%;
+    border: 5px solid ghostwhite;
+    border-top-color:#333 ;
+    text-align: center;
+    font-weight: 900;
+    border-bottom-color:#333 ;
+}
+#search-btn{
+    height: 35px;
+    width: 40%;
+    max-width: 100%;
+}
+#field-input{
+    height: 30px;
+    width: 57%;
+    max-width: 100%
+}
+@keyframes rotate {
+      100%{
+        rotate: 360deg;
+      }
+}
